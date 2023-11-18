@@ -14,7 +14,8 @@ To run this web app write this command in your terminal.
 ```bash
 npm start
 ```
-
+## Hosted link
+https://coruscating-gumption-d81b63.netlify.app/
 
 ## Screenshots
 ![yt image](https://github.com/deevesh11nov/Youtube-clone/assets/127090783/43aec63a-5430-47c9-9dd3-fc3e17d0b9f9)
